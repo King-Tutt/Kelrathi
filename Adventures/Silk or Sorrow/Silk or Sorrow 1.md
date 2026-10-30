@@ -51,14 +51,11 @@ Do not use the term *"Sensitive Proposition"* again. The *"Sensitive Proposition
 
 
 # Progression
-***Entry:***
-*E.G.* ***Party Milestone:*** reason for milestone
-*E.G.* ***Safe Haven:*** If the party does thing that clears the way for safe location, Long Rest yadda yadda
-*E.G.* ***Meaningful Text:*** Possibilities for character hooks
+***Next Steps:*** If the party successfully collects the silk of five spiders without causing significant harm to any of them, [[Ferolana]] will request the party capture two mating pairs.
 
-***Entry:***
+***Strong Silent Type:*** If a Stealth oriented character is present, as a reward they may be given a measure of silk to be fashioned into armor (same stats as Leather but confers Advantage on Dex(Stealth) checks). Alternatively, the silk can be sold for \<X> gold or bartered with.
 
-***Entry:***
+***Fancy New Shoes:*** The party may be awarded a measure of silk that would be sufficient for making a pair of Boots of Spiderclimb.
 
 ## Final Words
 >*Something...*
