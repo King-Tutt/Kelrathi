@@ -1,0 +1,1 @@
+Along the [[Suntrace Road]], three days' journey east of Brivalogn, nestled among rolling hills and fields of golden grain lies the growing village of Oaken Cask, so named for the wayside inn and tavern around which the village is growing.

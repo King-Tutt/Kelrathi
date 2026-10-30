@@ -1,0 +1,1 @@
+The human noble family of [[Myrkhollow]]. They are not active in world nor regional politics, as Myrkhollow is fairly remote and generally ignored. There is some speculation that the Eldritchstag family mixed with the local fey population, when they first arrived, though that is mostly local whispers and family legend.

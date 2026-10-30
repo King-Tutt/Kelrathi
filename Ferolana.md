@@ -1,0 +1,1 @@
+Ferolana is a [[Human]] [[Citizen]] and merchant of [[Brivalogn]].

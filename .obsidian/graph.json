@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Brivalogn  ",
+      "color": {
+        "a": 1,
+        "rgb": 8323327
+      }
+    },
+    {
+      "query": "tag:#Koremakari  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Shyn",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Travelers  ",
+      "color": {
+        "a": 1,
+        "rgb": 43724
+      }
+    },
+    {
+      "query": "tag:#Bentang",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#Dragon",
+      "color": {
+        "a": 1,
+        "rgb": 13727007
+      }
+    },
+    {
+      "query": "tag:#Gobbos",
+      "color": {
+        "a": 1,
+        "rgb": 6396011
+      }
+    },
+    {
+      "query": "tag:#Underdark",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 16.5625,
+  "linkStrength": 1,
+  "linkDistance": 138,
+  "scale": 0.16348370567220472,
+  "close": true
+}

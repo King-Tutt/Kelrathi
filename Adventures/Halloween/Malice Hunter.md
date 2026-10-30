@@ -1,0 +1,2 @@
+
+[[Malice Hunter Stat Block]]
