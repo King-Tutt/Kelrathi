@@ -208,9 +208,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "665619ec84dc9eab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,7 +236,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "30b6692f4c1347d3",
