@@ -4,9 +4,9 @@ tags:
 # <% tp.file.title %>
 *<% tp.file.cursor() %>Size Type*
 
-|                                                                                                      |
-| ---------------------------------------------------------------------------------------------------- |
-| **AC** 10 () **Initiative** +0 (10)<br>**HP** 8 (1d8 + 0 )<br>**Speed** 30 ft.<br>**Proficiency** +2 |
+|                                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| **AC** 10 () **Initiative** +0 (10)<br>**HP** 8 (1d8 + 0 )<br>**Speed** 30 ft.<br>**Initiative** +0 |
 
 |         |     | MOD | SAVE |         |     | MOD | SAVE |
 | :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: |
@@ -16,7 +16,7 @@ tags:
 ***Skills*** Skill +0
 ***Senses*** Darkvision 60 ft., Passive Perception 10
 ***Languages*** 
-***CR*** 1/2    ***PB*** +2
+***CR*** 1/2    ***Proficiency Bonus*** +2
 
 |                                                     |
 | --------------------------------------------------- |
@@ -29,9 +29,9 @@ tags:
 
 ### Action
 ---
-***Melee Action*** *Melee Attack Roll:* +4, Nick, reach 5 ft. *Hit:* 6 (1d6 + 2) slashing damage
+***Melee Action*** *Melee Attack Roll:* +4 to hit, reach 5 ft. *Hit:* 6 (1d6 + 2) type damage
 
-***Ranged Action*** *Ranged Attack Roll:* +4, Vex, range 80/320, *Hit:* 6 (1d6 + 2) piercing damage
+***Ranged Action*** *Ranged Attack Roll:* +4 to hit, range 80/320, *Hit:* 6 (1d6 + 2) type damage
 
 ### Bonus Action
 ---

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Silk or Sorrow/Silk or Sorrow Adventure.md",
+                "file": "Stat Blocks/Dragons/Majestic Feathered Water Dragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silk or Sorrow Adventure"
+              "title": "Majestic Feathered Water Dragon"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Silk or Sorrow/Silk or Sorrow Adventure.md",
+                "file": "Stat Blocks/Djivvimm/Djivvimm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,8 +242,17 @@
   },
   "active": "30b6692f4c1347d3",
   "lastOpenFiles": [
-    "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
+    "Templates/Stat Block.md",
+    "Stat Blocks/Dragons/Majestic Feathered Water Dragon.md",
+    "Stat Blocks/Goblinoids/Grimling.md",
+    "Stat Blocks/Goblinoids/Goblin Scout.md",
+    "Stat Blocks/Goblinoids/Goblin.md",
+    "Stat Blocks/Djivvimm/Djivvimm.md",
+    "Stat Blocks/Dragons/Untitled.md",
+    "Stat Blocks/Dragons",
     "Adventures/Silk or Sorrow/Silk or Sorrow Adventure.md",
+    "Stat Blocks/Djivvimm",
+    "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
     "Darfyn.md",
     "Adventures/Halloween/Malice Hound.md",
     "Stat Blocks/Malice/Malice Hound Stat Block.md",
@@ -253,9 +262,6 @@
     "Untitled",
     "Adventures/Halloween",
     "Stat Blocks/Creatures.md",
-    "Stat Blocks/Goblinoids/Grimling.md",
-    "Stat Blocks/Goblinoids/Goblin.md",
-    "Stat Blocks/Goblinoids/Goblin Scout.md",
     "Grimlings.md",
     "Templates/Session Notes.md",
     "Geography & Politics.md",
@@ -267,17 +273,11 @@
     "Goblin Names.md",
     "Goblins.md",
     "Grnzlth.md",
-    "Stat Blocks/Luminary/Luminary.md",
-    "Stat Blocks/Silkshade/Silkshade Large Spider.md",
-    "Templates/Stat Block.md",
-    "Stat Blocks/Silkshade/Silkshade Spider.md",
     "Stat Blocks/Guards",
     "Stat Blocks/Silkshade",
     "Adventures/Silk or Sorrow",
     "Adventures",
     "Stat Blocks/Luminary",
-    "Stat Blocks/Goblinoids",
-    "Stat Blocks",
     "Untitled.canvas"
   ]
 }
