@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat Blocks/Dragons/Majestic Feathered Water Dragon.md",
+                "file": "Stat Blocks/Beasts/Giant Darter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Majestic Feathered Water Dragon"
+              "title": "Giant Darter"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "30b6692f4c1347d3",
   "lastOpenFiles": [
-    "Stat Blocks/Beasts/Giant Darter.md",
     "Stat Blocks/Beasts/Darter.md",
+    "Stat Blocks/Beasts/Giant Darter.md",
     "Stat Blocks/Dragons/Majestic Feathered Water Dragon.md",
     "Stat Blocks/Beasts",
     "Stat.md",
