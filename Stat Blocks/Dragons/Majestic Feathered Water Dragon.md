@@ -3,20 +3,21 @@ tags:
   - Dragon
 ---
 # Majestic Feathered Water Dragon
-*Huge Dragon*
+*Huge Dragon, Chaotic Neutral*
 
-|                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AC** 19 (natural armor) **Initiative** +0 (10)<br>**HP** 195 (17d12 + 85 )<br>**Speed** 40 ft., Fly 80 ft., Swim 40 ft.<br>**Initiative** +2 |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| **AC** 19 (natural armor) **Initiative** +6 (16)<br>**HP** 210 (20d12 + 80)<br>**Speed** 40 ft., Fly 100 ft., Swim 50 ft. |
 
 |         |     | MOD | SAVE |         |     | MOD | SAVE |
 | :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: |
-| **STR** | 23  | +6  |  +6  | **INT** | 14  | +2  |  +2  |
-| **DEX** | 14  | +2  |  +7  | **WIS** | 15  | +2  |  +7  |
-| **CON** | 21  | +5  | +10  | **CHA** | 21  | +5  | +10  |
-***Skills*** Perception +12, Stealth +7, Survival +7
-**Damage Immunities** Lightning
-***Senses*** Blindsight 60 ft., Darkvision 120 ft., Passive Perception 22
+| **STR** | 16  | +3  |  +6  | **INT** | 16  | +2  |  +2  |
+| **DEX** | 23  | +6  |  +7  | **WIS** | 20  | +5  |  +7  |
+| **CON** | 18  | +4  | +10  | **CHA** | 25  | +7  | +12  |
+***Skills*** Perception +10, Persuasion +12, Stealth +11, Survival +10
+***Resistances*** Bludgeoning, Piercing, and Slashing from Non-magical sources, Radiant
+**Damage Immunities** Lightning, Thunder
+***Senses*** Blindsight 60 ft., Darkvision 120 ft., Passive Perception 20
 ***Languages*** Avian, Common, Draconic
 ***CR*** 15    ***Proficiency Bonus*** +5
 
@@ -31,23 +32,31 @@ tags:
 ***Legendary Resistance (3/Day)*** If the dragon fails a saving throw, it can choose to succeed instead.
 **Used** <input type="checkbox"><input type="checkbox"><input type="checkbox">
 
+***Water Camouflage*** The dragon has advantage on Dexterity (Stealth) checks made to hide wile submerged or swimming with only its head above water
+
 ### Action
 ---
 ***Multiattack*** The dragon can use its Majestic Presence. It then makes three attacks: one with its beak and two either with its claw or its wing.
 
-***Beak*** *Melee Attack Roll:* +11 to hit, reach 15 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage.
+***Beak*** *Melee Attack Roll:* +11 to hit, reach 15 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. If the target is smaller than the dragon, it is grappled (escape DC 19). Until this grapple ends, the dragon can't use its beak attack or breath weapon on another target.
 
-***Claw*** *Melee Attack Roll:* +11 to hit, range 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
+***Claw*** *Melee Attack Roll:* +10 to hit, range 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
 
-***Wing*** *Melee Attack Roll:* +11 to hit, range 15 ft., one target. *Hit* 13 (2d6 +6) bludgeoning damage.
+***Wing*** *Melee Attack Roll:* +10 to hit, range 15 ft., one target. *Hit* 12 (2d6 +5) bludgeoning damage.
 
-***Majestic Presence*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become *Restrained* until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the dragon's Majestic Presence for the next 24 hours.
+***Majestic Presence*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become *Restrained* until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the dragon's Majestic Presence for the next 24 hours.
 
-***Unsettling Breath (Recharge 5-6)***  The dragon exhales a pulse of raspy clicking sound in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw. On a failed save, the creature takes 45 (8d10) thunder damage and is *Incapacitated* until the end of its next turn. On a successful save, the creature takes half as much damage and isn't *Incapacitated*.
+***Unsettling Breath (Recharge 3-6)***  The dragon exhales a pulse of raspy clicking sound in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw. On a failed save, the creature takes 45 (8d10) thunder damage and is *Incapacitated* until the end of its next turn. On a successful save, the creature takes half as much damage and isn't *Incapacitated*.
 
-***Change Shape*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+***Change Shape*** The dragon magically polymorphs into a [[Darter]] or [[Giant Darter]], or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistances, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+### Spellcasting
+---
+***At Will*** placeholder
+***3/day each*** placeholder
+***1/day each*** palceholder
 
 ### Legendary Action
 ---
@@ -77,3 +86,10 @@ The region containing a majestic feathered water dragon's lair is warped by the 
 If the dragon dies, changed weather reverts to normal, as described in the spell, the rain effect fades in 1d10 days. Any sinkholes remain where they are.
 ---
 
+***Dragons of the Water*** 
+
+***Kindred Spirits*** 
+
+***Flighty Fishers***  
+
+***Climate Elemental Elusive Squall Stormy Tempestuous Turbulent Weather Conservationists Naturalists Environmentalists Preservationists Wardens***
