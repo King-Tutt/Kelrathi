@@ -20,9 +20,9 @@ tags:
 ***Languages*** None
 ***CR*** 1/2    ***PB*** +2
 
-|                                                     |
-| --------------------------------------------------- |
-| **Habitat** Biome1, Biome2<br>**Treasure** Treasure |
+|                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- |
+| **Habitat** Biome1, Biome2<br>**Treasure** Silk (1d4 bolt), 1d2 Silkshade Venom Sack, workable chitin |
 
 ### Traits
 ---

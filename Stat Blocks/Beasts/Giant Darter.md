@@ -30,4 +30,6 @@ tags:
 
 ### Action
 ---
-***Spear Beak*** *Melee Attack Roll:* +6 to hit, reach 5 ft. *Hit:* 9 (2d4 + 4) piercing damage. If the target is smaller than the giant darter, it is grappled (escape DC 14). Until this grapple ends, the giant darter can't use its beak attack on another target.
+***Beak*** *Melee Attack Roll:* +6 to hit, reach 5 ft. *Hit:* 9 (2d4 + 4) piercing damage. If the target is smaller than the giant darter, it is grappled (escape DC 14). Until this grapple ends, the giant darter can't use its beak attack on another target.
+
+***Swallow*** The darter makes one beak attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the darter, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The darter can have only one target swallowed at a time. If the darter dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.

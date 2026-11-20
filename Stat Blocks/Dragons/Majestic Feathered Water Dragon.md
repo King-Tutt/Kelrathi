@@ -44,6 +44,8 @@ tags:
 
 ***Wing*** *Melee Attack Roll:* +10 to hit, range 15 ft., one target. *Hit* 12 (2d6 +5) bludgeoning damage.
 
+***Swallow*** The dragon makes one beak attack against a Large or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the dragon, and it takes 18 (4d8) acid damage at the start of each of the toad's turns. The dragon can have only one target swallowed at a time. If the darter dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+
 ***Majestic Presence*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become *Restrained* until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the dragon's Majestic Presence for the next 24 hours.
 
 ***Unsettling Breath (Recharge 3-6)***  The dragon exhales a pulse of raspy clicking sound in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw. On a failed save, the creature takes 45 (8d10) thunder damage and is *Incapacitated* until the end of its next turn. On a successful save, the creature takes half as much damage and isn't *Incapacitated*.
@@ -81,7 +83,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 ***Regional Effects***
 The region containing a majestic feathered water dragon's lair is warped by the dragon's magic.
 - Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the *Control Weather* spell.
-- Rain falls with no clouds in the sky while the sun is shining.
+- Rain falls with no clouds in the sky, while the sun is shining.
 - Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom (Perception) check. Otherwise, the first creature to step onto the thin ground covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 x 10 feet into the sinkhole. There is a 50% chance the sinkhole is filled with water.
 If the dragon dies, changed weather reverts to normal, as described in the spell, the rain effect fades in 1d10 days. Any sinkholes remain where they are.
 ---

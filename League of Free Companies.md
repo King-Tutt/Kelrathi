@@ -1,0 +1,5 @@
+- Mercenary Company: The Gold Company
+- Night Hunter (vs Vampire, Werewolf, etc) Company: The Silver Flame (alternately Ignis Argenteus)
+- General Adventurer Company: The Torch and Scroll
+- Security Company (for caravans, buildings, estates, etc): Stone Aegis
+- Skullduggery and Subterfuge Company: Ring and Chalice (not to be confused with the Quill and Fang)

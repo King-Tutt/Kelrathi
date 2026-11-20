@@ -1,0 +1,4 @@
+|              Name | Damage     | Properties                           | Mastery | Weight  | Cost |
+| ----------------: | ---------- | ------------------------------------ | ------- | ------- | ---- |
+| Tranquilizer Dart | 1 Piercing | Finesse, Light, Thrown (Range 20/60) | Topple  | 1/4 lb. | 1 GP |
+On a successful hit, the targeted creature must make a DC 13 Wisdom save or become Incapacitated until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for 1 minute. The effect ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the effect. 
