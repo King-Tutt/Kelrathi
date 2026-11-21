@@ -47,7 +47,7 @@ When asked about the *Missing Person Retrieval*, Sheli will direct prospective t
 
 ## If the Party Goes for the Sensitive Proposition
 ###### The Merchant:
-[[Ferolana]], a merchant and one of the Burgess class of nobles, is looking for a group of people to go into the Silkshade Wood in order to investigate and hopefully recover a missing silk harvester. She also needs the group to attempt to [[#Collecting Silk:|retrieve silk]] from the large spiders that inhabit the wood. Ferolana will provide [[#Supplies:|supplies]], but deduct them from the total payout if the group does not purchase those supplies up front.
+[[Ferolana]], a merchant and one of the Burgess class of nobles, is looking for a group of people to go into the Silkshade Wood in order to investigate and hopefully recover a missing silk harvester named Donovan. She also needs the group to attempt to [[#Collecting Silk:|retrieve silk]] from the large spiders that inhabit the wood. Ferolana will provide [[#Supplies:|supplies]], but deduct them from the total payout if the group does not purchase those supplies up front.
 
 Ferolana has the ambition to attempt cultivating Silkshade spiders. If the group is successful at collecting spider silk, she will be interested in employing them to capture live spiders or retrieving spider eggs.
 
@@ -63,7 +63,7 @@ Spiders must be alive to collect silk from them. A dead spider's spinnerets do n
 ###### Supplies:
 - [[Tranquilizer Dart]]: 1 GP
 - Net: 1 GP
-- [[Peppermint Oil]]: 1SP
+- [[Peppermint Oil]]: 15 SP
 - [Smoke Flask](Throwing Flask): 5 GP
 - [Sleep Flask](Throwing Flask): 15 GP
 
@@ -72,10 +72,11 @@ Spiders must be alive to collect silk from them. A dead spider's spinnerets do n
 ###### The Forest
 > The canopy of the forest prevents most of the midday sun from reaching the forest floor. Among the branches, cobwebs spread sporadically. Some of the webbing strands climb down the tree trunks to the ground. As you travel along, there are also funnel webs and sheet webs littered about the forest floor. Off a little way from your path of travel, you see the head of a now dead olwbear protruding from a swath of web.
 ###### The Missing Silk Collector
-The missing adventurer can be trailed down in the Silkshade Forest, though he has not survived.
-- DC 16 Wisdom (Nature) check to find the Silk Collector's body
+The missing adventurer can be trailed down in the Silkshade Forest, though he may not have survived.
+- DC 21+ Wisdom(Nature) check to find Donovan alive
 	- Result 20+: The Silk Collector had already retrieved three spools of raw spider silk.
-	- Result 15 - 12: The Silk Collector is found near a [[Silkshade Spider]]. The Silk Collector has 1d2 - 1 spools of raw spider silk. [[#Encounters|encouter]]
+	- Result 16 - 19: find the Silk Collector's body
+	- Result 12 - 15: The Silk Collector is found near a [[Silkshade Spider]]. The Silk Collector has 1d2 - 1 spools of raw spider silk. [[#Encounters|encouter]]
 	- Result >=11: The Silk Collector is found near a [[Silkshade Large Spider]]. The Silk Collector has no raw spider silk. [[#Encounters|encouter]]
 - Other checks can be used in place of Nature.
 	- Intelligence (History)
@@ -97,27 +98,49 @@ Rather than a signature, the note has a stylized mark representing a quill pen w
 # Chapter
 
 ## Scene
+Urg (Perry)
+Andreas (Joel)
+Marithaa (Michelle)
+Adzorwyn (Alexandra)
 
+Ferolana describes Donovan as being an average height human with a heavier than average, muscular build, brown hair and eyes, and a van dyke goatee.
+
+The party purchases:
+- 6 Peppermint Oil
+- 11 Tranquilizer Dart
 ## Scene
+The Shilkshade Forest: Urg pokes at a funnel web, inciting a large spider attack. The group successfully knocks out the spider. During combat, the group (Andreas) identifies another large spider not far off. The group assaults the second spider, and successfully knocks out that spider. The party collects 6 bolts of silk.
 
+During combat, the party expended:
+- 1 Peppermint Oil
+- 4 Tranquilizer Dark
+
+The party is left with:
+- 5 Peppermint Oil
+- 7 Tranquilizer Dart
+
+The party eventually recalls that they are searching for Donovan. They succeed at finding Donovan unconscious but alive, and with three bolts of Silk. The party successfully brings Donovan back to the Torch and Rose, where they then meet up with Ferolana in her rooms.
 # Chapter
 
 ## Scene
-
+Ferolana propositions the party to return to the Silkshade Forest, in order to retrieve spider eggs. She expresses that she wants 20 to 30 eggs at 300 gold marks per egg (6000 to 9000 gold). She tells the party that the guilds, particularly the Weavers and Dyers' Guild are okay with contracted collection of wild spider Silk, but would be jealously interested in controlling the supply chain of any cultivated spider Silk. The party disperses to discuss their course of action.
 ## Scene
+The party discusses the pros and cons of attempting to retrieve the spider eggs for Ferolana, including the implication of going against the guilds. Andreas is particularly opposed to breaking the law (despite there being no legal precedence yet)
 
+Andreas gives Donovan 50g
+
+Urg goes down to the bar of the tavern and asks if the guilds are good or bad. The bartender indicates strongly that asking that is not a good idea. Urg goes back upstairs and tells the rest of the party that the guilds are bad. `There is more nuance than just "the guilds are bad" or "the guilds are good", but that has not yet been explored`.
 
 # Progression
-***Next Steps:*** If the party successfully collects the silk of five spiders without causing significant harm to any of them, [[Ferolana]] will request the party capture two mating pairs.
+***Next Steps:*** If the party successfully collects the silk of five spiders without causing significant harm to any of them, [[Ferolana]] will request the party capture two mating pairs. If they collect from fewer spiders, but still obtain 8+ bolts of Silk, Ferolana will request the party obtain twenty to thirty spider eggs.
 
-***Strong Silent Type:*** If a Stealth oriented character is present, as a reward they may be given a measure of silk to be fashioned into armor (same stats as Leather but confers Advantage on Dex(Stealth) checks). Alternatively, the silk can be sold for \<X> gold or bartered with.
+***Strong Silent Type:*** If a Stealth oriented character is present, as a reward they may be given a measure of silk to be fashioned into armor (same stats as Leather but confers Advantage on Dex(Stealth) checks). Alternatively, the silk can be sold for 25 gold or bartered with.
 
 ***Fancy New Shoes:*** The party may be awarded a measure of silk that would be sufficient for making a pair of Boots of Spiderclimb.
 
 ## Final Words
->*Something...*
->
->
+>As you all retreat to your respective sanctuaries, whether that be your quarters or your temple, you have some things to reflect on: the nature of avarice, the nature of greed, and the nature of law.
 
 # Post Mortem
-- 
+- Andreas needs to interact at his temple.
+- Donovan will approach the party and offer the bolt of Silk as thanks for saving his life.
