@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57d3da55533e29dc",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
-                "bFile": "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Silk or Sorrow 1  (Index)"
-            }
-          },
-          {
             "id": "ddb50e0dcfa78d69",
             "type": "leaf",
             "state": {
@@ -196,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57d3da55533e29dc",
+  "active": "665619ec84dc9eab",
   "lastOpenFiles": [
-    "Gear/Peppermint Oil.md",
     "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
+    "Gear/Peppermint Oil.md",
     "Adventures/Silk or Sorrow/Silk or Sorrow Adventure.md",
     "Images/Qill and Fang Sig.jpg",
     "Images",
