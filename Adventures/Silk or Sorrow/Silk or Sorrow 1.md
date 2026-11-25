@@ -142,5 +142,6 @@ Urg goes down to the bar of the tavern and asks if the guilds are good or bad. T
 >As you all retreat to your respective sanctuaries, whether that be your quarters or your temple, you have some things to reflect on: the nature of avarice, the nature of greed, and the nature of law.
 
 # Post Mortem
-- Andreas needs to interact at his temple.
+- Andreas wants to interact at his temple.
+- The party seems undecided on whether to take Ferloana up on her offer to pay them for spider eggs.
 - Donovan will approach the party and offer the bolt of Silk as thanks for saving his life.
