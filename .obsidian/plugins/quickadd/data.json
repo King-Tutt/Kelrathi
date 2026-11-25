@@ -15,7 +15,9 @@
         "enabled": true,
         "folders": [
           "Codex Brivalogna",
-          "Adventures/Silk or Sorrow"
+          "Adventures/Silk or Sorrow",
+          "Adventures/One Shots",
+          "Adventures/Halloween"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

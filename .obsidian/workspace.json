@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "1bdb7f91365f6de8",
+    "id": "ef0c91145bccb941",
     "type": "split",
     "children": [
       {
-        "id": "4c9525de6d90dc82",
+        "id": "3617b88cd3eeb237",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb50e0dcfa78d69",
+            "id": "bb687061cbea8787",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Adventures/One Shots/Mind Goblins.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "Mind Goblins"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80071180257860da",
+    "id": "9fece4e0c00e2d48",
     "type": "split",
     "children": [
       {
-        "id": "0ef04e089adba611",
+        "id": "02629a5537beb5d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0498e5ec24a9f25b",
+            "id": "04a2c43794e2392a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +50,7 @@
             }
           },
           {
-            "id": "efe3be0de56f5e72",
+            "id": "1588200e7206f191",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,11 +67,14 @@
             }
           },
           {
-            "id": "c834912b716f7d6f",
+            "id": "02f8445e319f5da4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -81,20 +86,19 @@
     "width": 300
   },
   "right": {
-    "id": "9b02dd47c2e00eeb",
+    "id": "a10a34224b569d8d",
     "type": "split",
     "children": [
       {
-        "id": "f7c205d554dc3ec9",
+        "id": "b1899c9b074f484c",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb2779d2b50bc93",
+            "id": "6a3c6bbdd0e47610",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat Blocks/Goblinoids/Goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             }
           },
           {
-            "id": "8bb35835c31781ef",
+            "id": "6833e66a9324fcc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +125,7 @@
             }
           },
           {
-            "id": "0c08c35d1a737dd9",
+            "id": "ea43c7913cde773b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,12 +140,26 @@
             }
           },
           {
-            "id": "5625752b5aae9050",
+            "id": "ebbb917c5934227c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "73d07140b44c4090",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat Blocks/Djivvimm/Djivvimm.md",
+                "file": "Adventures/One Shots/Mind Goblins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -151,7 +169,7 @@
             }
           },
           {
-            "id": "665619ec84dc9eab",
+            "id": "5780a2263e74dadf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -161,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,56 +187,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "665619ec84dc9eab",
+  "active": "bb687061cbea8787",
   "lastOpenFiles": [
+    "Papa Grim.md",
+    "Grimlings.md",
+    "Adventures/One Shots/Mind Goblins.md",
+    "Gear/LASER (Long-range Attack System Emitting Radiance).md",
+    "Codex Brivalogna/Codex 1.md",
+    "Adventures/One Shots/Mind Goblin.md",
+    "Codex Brivalogna/Codex Act 1.md",
     "Adventures/Silk or Sorrow/Silk or Sorrow 1.md",
+    "Adventures/One Shots",
+    "Untitled",
     "Gear/Peppermint Oil.md",
-    "Adventures/Silk or Sorrow/Silk or Sorrow Adventure.md",
-    "Images/Qill and Fang Sig.jpg",
-    "Images",
-    "Stat.md",
-    "Quill.md",
-    "Stat Blocks/Quill and Fang Agent.md",
-    "Stat Blocks/Silkshade/Silkshade Large Spider.md",
-    "Stat Blocks/Silkshade/Silkshade Spider.md",
-    "Shelesh.md",
-    "Torch and Rose.md",
-    "League of Free Companies.md",
-    "Gear/Tranquilizer Dart.md",
-    "Gear/Throwing Flask.md",
-    "Gear",
-    "Stat Blocks/Creatures.md",
-    "Adventures/Halloween/Malice Hunter.md",
-    "Adventures/Halloween/Malice Hound.md",
+    "Stat Blocks/Guards/Metropolitan Guard.md",
     "Stat Blocks/Dragons/Majestic Feathered Water Dragon.md",
-    "Stat Blocks/Beasts/Giant Darter.md",
-    "Stat Blocks/Beasts/Darter.md",
-    "Stat Blocks/Beasts",
-    "Darter.md",
-    "Templates/Stat Block.md",
-    "Stat Blocks/Goblinoids/Grimling.md",
-    "Stat Blocks/Goblinoids/Goblin Scout.md",
-    "Stat Blocks/Goblinoids/Goblin.md",
-    "Stat Blocks/Djivvimm/Djivvimm.md",
+    "Gear/Tranquilizer Dart.md",
+    "Stat Blocks/Silkshade/Silkshade Large Spider.md",
+    "Shelesh.md",
+    "Gear/Throwing Flask.md",
+    "Stat Blocks/Silkshade/Silkshade Spider.md",
+    "Zhulvlar.md",
+    "Xav.md",
+    "Xaith.md",
+    "Wuku.md",
+    "Welcome.md",
+    "Vynabshynthi.md",
+    "Vu.md",
+    "Underdark.md",
+    "Troglodytes.md",
+    "Torch and Rose.md",
+    "Templates",
+    "Stat Blocks/Silkshade",
+    "Stat Blocks/Malice",
+    "Stat Blocks/Luminary",
+    "Stat Blocks/Guards",
+    "Stat Blocks/Goblinoids",
     "Stat Blocks/Dragons",
     "Stat Blocks/Djivvimm",
-    "Stat Blocks/Malice",
-    "Adventures/Halloween",
-    "Stat Blocks/Guards",
-    "Stat Blocks/Silkshade",
-    "Adventures/Silk or Sorrow",
-    "Untitled.canvas"
+    "Images/Qill and Fang Sig.jpg"
   ]
 }
